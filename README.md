@@ -21,4 +21,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact">
