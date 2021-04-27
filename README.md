@@ -1,4 +1,4 @@
-   [![MasterHead](https://coverfiles.alphacoders.com/500/50043.jpg](https://vimalprogrammer.github.io)
+   [![MasterHead](https://coverfiles.alphacoders.com/500/50043.jpg)](https://vimalprogrammer.github.io)
    
    Hey 👋, I'm Vimal!
 
