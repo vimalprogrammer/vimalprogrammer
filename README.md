@@ -9,4 +9,4 @@
 - 📫 How to reach me: Instagram
 - ⚡ Fun fact: Ctrl + C and Ctrl + V
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true">
