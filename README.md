@@ -47,4 +47,4 @@ I beleive <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact">
 </div> 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer-25&)"><img src="https://activity-graph.herokuapp.com/graph?username=vimalprogrammer&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer&)"><img src="https://activity-graph.herokuapp.com/graph?username=vimalprogrammer&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
