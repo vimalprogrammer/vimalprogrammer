@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="260"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="380" height="260"> <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="323" height="260">
+<div align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="260"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> </div>
 <h1 align="center">Hey 👋, I'm Vimal!</h1>
 I currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
 <br>
