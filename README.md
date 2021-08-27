@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey 👋, I'm Vimal!</h1>
 
-I currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
+I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
 <br>
 <br>
 ⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
