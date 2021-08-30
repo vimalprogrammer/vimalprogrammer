@@ -7,8 +7,8 @@
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
 <br>
-![Visitor Count](https://profile-counter.glitch.me/vimalprogrammer/count.svg)
 <br>
+<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="vimalprogrammer" /> </p>
 ⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
 
 <h1 align="center">Tech-Stack</h1>
