@@ -7,6 +7,7 @@
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
 <br>
+![Visitor Count](https://profile-counter.glitch.me/vimalprogrammer/count.svg)
 <br>
 ⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
 
@@ -49,7 +50,7 @@ I beleive <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact">
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&theme=tokyonight&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=tokyonight">
 </div> 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer&)"><img src="https://activity-graph.herokuapp.com/graph?username=vimalprogrammer&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")"><img src="https://activity-graph.herokuapp.com/graph?username=vimalprogrammer&theme=tokyonight"></div>
