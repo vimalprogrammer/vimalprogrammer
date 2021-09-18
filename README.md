@@ -35,7 +35,7 @@ I believe in implementing the knowledge which I have. I'm always keen to learn a
 <hr>
 <h1 align="center">Let's Get Connected</h1>
 
-I beleive <b>"Network is Networth"<b>. Alone we can do so little; together we can do so much. So <strong>Feel free to connect me on<strong> </p>
+I believe <b>"Network is Networth"<b>. Alone we can do so little; together we can do so much. So <strong>Feel free to connect me on<strong> </p>
 
 <div align="center">
 
