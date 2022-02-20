@@ -47,6 +47,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a  href="https://www.instagram.com/_vimal_ms/"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
  <a href="https://leetcode.com/vimal_ms/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
   <a href="https://www.youtube.com/channel/UCNyc_8sfzp_jYsx3A3LpmjA"> <img src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red">
+   <a href="https://www.codechef.com/users/vimalm"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
  </a>
 
 </div>
