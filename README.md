@@ -54,7 +54,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-< <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true&theme=gotham" alt="vimalprogrammer" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true&theme=gotham" alt="vimalprogrammer" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
 </div> 
  <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
