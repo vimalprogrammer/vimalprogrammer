@@ -1,5 +1,5 @@
 <div align="center"> 
- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="260"> 
+ <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="250" height="260"> 
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
 </div>
 
